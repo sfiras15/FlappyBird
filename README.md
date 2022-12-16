@@ -1,2 +1,2 @@
 # FlappyBird
-A version of FlappyBird made in unity
+A version of FlappyBird made with Unity
