@@ -1,4 +1,4 @@
 # FlappyBird
-A version of FlappyBird made with Unity
+An infinite side-scroller where the player controls a bird,attempting to fly between columns of green pipes without hitting them.
 
-[Download](https://github.com/sfiras15/FlappyBird/archive/refs/heads/main.zip)
+- [Download](https://github.com/sfiras15/FlappyBird/archive/refs/heads/main.zip)
