@@ -17,10 +17,11 @@ public class PipeSpawner : MonoBehaviour
         InvokeRepeating(nameof(Spawn), spawnTime,spawnTime);
         startingPosition = transform.position;
     }
-    void OnDesable()
+    private void OnDisable()
     {
         CancelInvoke(nameof(Spawn));
     }
+
 
     // Update is called once per frame
     public void Spawn()
